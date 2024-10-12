@@ -55,13 +55,14 @@ education:
     - degree: BS in Computer Science with an Emphasis in Computer Engineering and a Minor in Computational and Applied Mathamatics  
       university: Colorado School of Mines
       time: 2021 - 2025
-      details: Relevent Coursework
-        # Computer Science: 
-        #   - Software Engineering, Operating Systems, Algorythms, Programming Languages
-        # Computer Engineering:
-        #   - Circuits, Digital Logic, Embedded Systems, Elements of Computing Systems
-        # Math Minor:
-        #   - Scientific Computing, Partial Differential Equations, Abstract Algebra
+      details: |
+        Relevent Coursework:
+        Computer Science: 
+          - Software Engineering, Operating Systems, Algorythms, Programming Languages
+        Computer Engineering:
+          - Circuits, Digital Logic, Embedded Systems, Elements of Computing Systems
+        Math Minor:
+          - Scientific Computing, Partial Differential Equations, Abstract Algebra
         
 
     # - degree: BSc in Applied Mathematics
@@ -106,10 +107,10 @@ experiences:
     #       - Bullet point
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    # intro: >
+    #   You can list your side projects or open source libraries in this
+    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Rhino Coffee
         link: "https://github.com/GenesisSquad/Grace-shopper"
@@ -135,22 +136,22 @@ projects:
       #   link: "#"
       #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Research
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+# publications:
+#     title: Research
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
       # - title: A syntax directed compiler for Algol 60
       #   link: "#"
@@ -162,22 +163,22 @@ skills:
 
     toolset:
       - name: Python & Django
-        level: 98%
+        # level: 98%
 
       - name: Javascript & jQuery
-        level: 98%
+        # level: 98%
 
       - name: Angular
-        level: 98%
+        # level: 98%
 
       - name: HTML5 & CSS
-        level: 95%
+        # level: 95%
 
       - name: Ruby on Rails
-        level: 85%
+        # level: 85%
 
       - name: Sketch & Photoshop
-        level: 60%
+        # level: 60%
 
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
