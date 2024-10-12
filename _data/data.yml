@@ -55,14 +55,13 @@ education:
     - degree: BS in Computer Science with an Emphasis in Computer Engineering and a Minor in Computational and Applied Mathamatics  
       university: Colorado School of Mines
       time: 2021 - 2025
-      details: |
-        - Relevent Coursework
-        Computer Science: 
-          - Software Engineering, Operating Systems, Algorythms, Programming Languages
-        Computer Engineering:
-          - Circuits, Digital Logic, Embedded Systems, Elements of Computing Systems
-        Math Minor:
-          - Scientific Computing, Partial Differential Equations, Abstract Algebra
+      details: Relevent Coursework
+        # Computer Science: 
+        #   - Software Engineering, Operating Systems, Algorythms, Programming Languages
+        # Computer Engineering:
+        #   - Circuits, Digital Logic, Embedded Systems, Elements of Computing Systems
+        # Math Minor:
+        #   - Scientific Computing, Partial Differential Equations, Abstract Algebra
         
 
     # - degree: BSc in Applied Mathematics
