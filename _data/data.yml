@@ -52,17 +52,19 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: BS in Computer Science with an Emphasis in Computer Engineering with a Minor in Computational and Applied Mathamatics  
+    - degree: BS in Computer Science with an Emphasis in Computer Engineering and a Minor in Computational and Applied Mathamatics  
       university: Colorado School of Mines
       time: 2021 - 2025
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Relevent Coursework
+        Computer Science: 
+          Software Engineering, Operating Systems, Algorythms, Programming Languages
+        Computer Engineering:
+          Circuits, Digital Logic, Embedded Systems, Elements of Computing Systems
+        Math Minor:
+          Scientific Computing, Partial Differential Equations, Abstract Algebra
+        
+
     # - degree: BSc in Applied Mathematics
     #   university: Bristol University
     #   time: 2007 - 2011
@@ -76,42 +78,33 @@ education:
     #       - Bullet point
 experiences:
     - role: Software Engineer Intern
-      time: 
+      time: 5/23 - 8/23
       company: ICR
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Researched and developed software to determine a correlation between North Atlantic Right Whale population decline and Lobster fishing off of the coast of Maine. 
+        Researched and Determined the correlation between North Atlantic Right Whales population decline and Lobster fishing off of the coast of Maine.
+        Designed and implemented a wrapper library around the CesiumJS library for easy access and integration with Angular 14+.
+        Merged multi server functionality down to a single REST server.
+
+    - role: Full Stack Developer
+      time: 7/21 - 9/21
+      company: Apollo Accountancy Solutions
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Designed and built an informational site for Apollo Accountancy Solutions to provide all-in-one resource access for their clients.
+        Implemented a NodeJS and Express back-end to handle employee information. 
+        Constructed Home, About Us, and Admin pages using stateful REACT components.
+
+    # - role: UI Developer
+    #   time: 2012 - 2014
+    #   company: Amazon, London
+    #   details: |
+    #     Describe your role here lorem ipsum dolor sit amet, consectetuer
+    #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+    #     Cum sociis natoque penatibus et magnis dis parturient montes,
+    #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
+    #     pellentesque eu, pretium quis, sem.
+    #       - Bullet point
+    #       - Bullet point
 projects:
     title: Projects
     intro: >
@@ -119,21 +112,25 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Rhino Coffee
+        link: "https://github.com/GenesisSquad/Grace-shopper"
+        tagline: |
+              A full stack E-commerce site for buying high-quality coffee and tea.
+              Completed and deployed a group project over a three-week period. 
+              Created both the front end and back end from scratch.
+              Utilized NodeJS, Express, and PostgreSQL to handle cart functionality and API requests from the front end.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      # - title: DevStudio
+      #   link: "#"
+      #   tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      # - title: Tempo
+      #   link: "#"
+      #   tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      # - title: Atom
+      #   link: "#"
+      #   tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
       # - title: Delta
       #   link: "#"
